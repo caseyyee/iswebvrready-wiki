@@ -7,7 +7,7 @@
 
 The intent is build out and prove an open software platform that can support various VR headsets (e.g., Oculus Rift, HTC Vive, PSVR, etc.) and peripherals (including but not limited to VR controllers).
 
-It's worth nothing that [OSVR](http://www.osvr.org/) and [Valve](http://www.valvesoftware.com/)'s [OpenVR](https://github.com/ValveSoftware/openvr) (the SDK used by the HTC Vive's [SteamVR](http://store.steampowered.com/steamvr) engine) are two separate projects, though with similar goals.
+It's worth nothing that [OSVR](http://www.osvr.org/) and [Valve](http://www.valvesoftware.com/)'s [OpenVR](https://github.com/ValveSoftware/openvr) (the SDK used by the HTC Vive's [SteamVR](http://store.steampowered.com/steamvr) engine) are two separate projects, though they have similar goals.
 
 # Prerequisites
 
