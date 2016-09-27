@@ -17,7 +17,7 @@ You can experience OSVR support in Firefox Nightly using one of the following VR
 * [[HTC Vive|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
 * [[OSVR Hacker Dev Kit headset|http://www.osvr.org/buy/]]
 
-# Windows
+# Instructions
 
 1. Download and install the latest [Firefox Nightly](https://nightly.mozilla.org/) build for Windows (see the complete [[instructions for Firefox Nightly on Windows here|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]).
 2. Once Firefox Nightly is launched, enter `about:config` in the URL bar, which will bring up a list of configurable Firefox settings.
