@@ -2,7 +2,7 @@
 
 ## VR hardware requirements
 
-* [Oculus Rift (consumer version 1.0)](https://www3.oculus.com/rift/)
+* [Oculus Rift (consumer version 1.0) VR headset](https://www3.oculus.com/rift/)
 
 If you have an [Oculus Rift Development Kit 2](https://www3.oculus.com/dk2/) (DK2), you may still be able to follow these same instructions to use WebVR, but there are no guarantees of stability nor performance.
 
