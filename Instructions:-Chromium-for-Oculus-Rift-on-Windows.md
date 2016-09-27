@@ -23,7 +23,7 @@ You may wish to upgrade your Windows PC manually, order/build a new custom machi
 
 * Download and install [Oculus Home](https://www3.oculus.com/setup/) (application for purchasing, downloading, and installing VR experiences and the required runtime to render experiences to the Oculus Rift).
 
-### Enabling "Unknown Sources" setting for WebVR content
+### Enabling `Unknown Sources` setting for WebVR content
 
 When launching WebVR from within the browser, you will be presented with an "Unknown Source" error screen that initially blocks WebVR content from being displayed:
 
