@@ -1,0 +1,64 @@
+# Prerequisites
+
+## VR hardware requirements
+
+* **Samsung Gear VR** (consumer version 1.0) headset
+  * [Oculus product page](https://www3.oculus.com/gear-vr/)
+  * [Samsung product page](http://www.samsung.com/us/explore/gear-vr/)
+
+### Supported input devices
+
+Check [this page](http://developer.samsung.com/internet#gearvr-overview) for more info. Although the Gamepad API is properly supported in the Samsung Internet Browser for Gear VR (as it's based on Chromium's original implementation, not that of the experimental WebVR builds), these are the recommended input devices:
+
+* **Bluetooth Gamepad** ([Samsung EI-GP20](http://www.samsung.com/sg/consumer/mobile-devices/accessories/others/EI-GP20HNBEGWW/))
+  * _Analog stick:_ Scroll web pages and list of tabs.
+  * _One-dot button:_ Select.
+  * _Two-dot button:_ Go back.
+* **Bluetooth Keyboard**
+* **Bluetooth Mouse** (Supported on the [Android 6.0 Marshmallow](https://www.android.com/versions/marshmallow-6-0/) OS and above)
+  * _Mouse move:_ Move pointer position of cursor (à la cursors on desktop PCs).
+  * _Left click:_ Select.
+  * _Right click:_ Go back.
+
+## Platform requirements
+
+Gear VR (and the Samsung Internet Browser for Gear VR) is optimized and supported only on [these Android phones](
+https://www3.oculus.com/en-us/gear-vr/):
+
+* [Samsung Galaxy S7](http://www.samsung.com/us/explore/galaxy-s7-features-and-specs/), [Samsung Galaxy S7 Edge]
+* [Samsung Galaxy S6](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6/), [Samsung Galaxy S6 Edge](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6-edge/), [Samsung S6 Edge+](http://www.samsung.com/global/galaxy/galaxy-s6-edge-plus/)
+* [Samsung Galaxy Note 5](http://www.samsung.com/global/galaxy/galaxy-note5/)
+
+* **Graphics card:** [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](https://www.amd.com/en-us/products/graphics/desktop/r9), or better.
+* **CPU:** [Intel i5-4590](http://ark.intel.com/products/80815/Intel-Core-i5-4590-Processor-6M-Cache-up-to-3_70-GHz) / [AMD FX 8350](https://www.amd.com/en-us/products/processors/desktop/fx), or better.
+* **Memory:** 4GB+ RAM.
+* **Video output:** HDMI 1.4, [DisplayPort 1.2](http://www.displayport.org/faq/), or better.
+* **USB ports:** one USB 2.0 (or faster) port.
+* **OS:** [Windows 7 SP1](https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1) (64-bit) or newer.
+
+You may download and run the [SteamVR Performance Test](http://store.steampowered.com/app/323910/) to ensure your machine meets the minimum requirements to enjoy VR in the HTC Vive.
+
+You may wish to upgrade your Windows PC manually, order/build a new custom machine, or purchase a [prebuilt Vive-ready PC](https://www.vive.com/ready/).
+
+## Software requirements
+
+* Install the [Oculus Store](https://product-guides.oculus.com/en-us/documentation/gear-vr/latest/concepts/ug-b-st-store/) (by simply inserting your Gear VR-capable phone into the Gear VR headset).
+* From the [Oculus Store](https://product-guides.oculus.com/en-us/documentation/gear-vr/latest/concepts/ug-b-st-store/), search for and install the [Samsung Internet Browser](http://developer.samsung.com/internet#gearvr-overview).
+
+## Instructions
+
+1. Download and launch the [latest version of the Samsung Internet Browser](http://developer.samsung.com/internet#gearvr-overview) from the [Oculus Store](https://product-guides.oculus.com/en-us/documentation/gear-vr/latest/concepts/ug-b-st-store/).
+2. In the URL bar, enter `internet://webvr-enable` to enable experimental WebVR support (and `internet://webvr-enable` to disable WebVR).
+3. Go enjoy some WebVR content!
+
+**Note:** The WebVR implementation in the Samsung Internet Browser for the Gear VR is experimental. Expect performance to improve over time, as work is being done at the moment to significantly reduce current latency.
+
+<hr>
+
+# Related links
+
+* [[Samsung Internet Browser for Gear VR Release Notes|Release-Notes:-Samsung-Internet-Browser-for-Gear-VR]]
+* [[Samsung Internet Browser for Gear VR Developer Notes|Developer-Notes:-Samsung-Internet-Browser-for-Gear-VR]]
+* [Oculus Store documentation](https://product-guides.oculus.com/en-us/documentation/gear-vr/latest/concepts/ug-b-st-store/)
+* [Oculus product page for Samsung Gear VR](https://www3.oculus.com/gear-vr/)
+* [Samsung product page for Samsung Gear VR](http://www.samsung.com/us/explore/gear-vr/)
