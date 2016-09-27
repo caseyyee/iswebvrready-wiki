@@ -36,7 +36,7 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
     * **[[Download Samsung Internet Browser for Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]]**
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
-  * <s>iOS</s> _(currently unsupported by Gear VR)_
+  * <s>iOS</s> _(currently unsupported by Samsung)_
 
 ## **OSVR**
 [Visit OSVR project site.](http://www.osvr.org/)
