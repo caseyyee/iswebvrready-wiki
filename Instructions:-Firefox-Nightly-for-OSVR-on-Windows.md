@@ -15,7 +15,7 @@ You can experience OSVR support in Firefox Nightly using one of the following VR
 
 * [[Oculus Rift VR headset|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
 * [[HTC Vive VR headset|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
-* [[OSVR Hacker Dev Kit VR headset|http://www.osvr.org/buy/]]
+* [OSVR Hacker Dev Kit VR headset](http://www.osvr.org/buy/)
 
 # Instructions
 
