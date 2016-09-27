@@ -13,8 +13,8 @@ It's worth noting that the [experimental Chromium builds](https://github.com/Web
 ## Platform requirements
 
 * Graphics Card: [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](http://www.amd.com/en-us/products/graphics/desktop/r9) or better.
-* CPU: Intel i5-4590 equivalent or greater.
-* Memory: 8GB+ RAM
+* CPU: Intel i5-4590 or better.
+* Memory: 8GB+ RAM.
 * Video-compatible HDMI 1.3 video output.
 * USB Ports: three USB 3.0 ports plus one USB 2.0 port.
 * OS: [Windows 7 SP1](https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1) (64-bit) or newer.
