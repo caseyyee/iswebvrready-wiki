@@ -1,3 +1,13 @@
+# Known issues
+
+* [List of open issues](https://github.com/toji/chrome-webvr-issues/issues)
+
+# Found a bug?
+
+* [File an issue](https://github.com/toji/chrome-webvr-issues/issues/new)
+
+<hr>
+
 **WARNING:** All [Chromium WebVR builds posted here](https://webvr.info/get-chrome/) are experimental! They have not been vetted by Google, [me (Brandon Jones)](https://twitter.com/tojiro), nor anyone else for security or stability, and under no circumstances should you use them as your day-to-day browser! They are provided for testing of the experimental WebVR APIs only.
 
 Please report Chromium WebVR bugs to [https://github.com/toji/chrome-webvr-issues/issues](https://github.com/toji/chrome-webvr-issues/issues).
