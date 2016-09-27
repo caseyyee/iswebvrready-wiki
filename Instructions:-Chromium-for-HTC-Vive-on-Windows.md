@@ -2,7 +2,7 @@
 
 ## VR hardware requirements
 
-* [HTC Vive (consumer version 1.0) headset](https://www.vive.com/us/)
+* [**HTC Vive** (consumer version 1.0) headset](https://www.vive.com/us/)
   * [Vive User Guide](http://dl4.htc.com/web_materials/Manual/Vive/Vive_User_Guide.pdf)
   * [SteamVR Support pages](https://support.steampowered.com/kb_article.php?ref=5254-FJKZ-7829)
 
