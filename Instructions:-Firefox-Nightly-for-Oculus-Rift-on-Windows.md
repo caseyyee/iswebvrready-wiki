@@ -4,7 +4,7 @@
 
 * [Oculus Rift (consumer version 1.0)](https://www3.oculus.com/rift/)
 
-If you have an [Oculus Rift Development Kit 2](https://www3.oculus.com/dk2/) (DK2), you may still be able to follow these same instructions to use WebVR but there are no guarantees of stability nor performance.
+If you have an [Oculus Rift Development Kit 2](https://www3.oculus.com/dk2/) (DK2), you may still be able to follow these same instructions to use WebVR, but there are no guarantees of stability nor performance.
 
 Support for the [Oculus Remote](https://support.oculus.com/835449819935261) and upcoming [Oculus Touch](https://www3.oculus.com/touch/) controllers is unavailable in the current versions of Firefox Nightly. You can follow the platform progress of the Firefox implementation of the [Gamepad API (Extensions)](https://w3c.github.io/gamepad/extensions.html) [here on IsWebVRReady.org](https://iswebvrready.org/#gamepad-extensions) (and, in particular, [this Firefox platform bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1196672)). Stay tuned!
 
