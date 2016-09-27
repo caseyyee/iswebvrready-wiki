@@ -21,7 +21,7 @@ You may download and run the [Oculus Rift Compatibility Check](http://ocul.us/co
 
 ## Software requirements
 
-* Download, install, launch, and configure [Oculus Home](https://www3.oculus.com/setup/) (application for purchasing, downloading, and installing VR experiences and the required runtime to render experiences to the Oculus Rift).
+* Download, install, launch, and configure [Oculus Home](https://www3.oculus.com/setup/) (application for browsing, purchasing, downloading, and installing VR experiences and the required runtime to render experiences to the Oculus Rift).
 
 ### Enabling `Unknown Sources` setting for WebVR content
 
