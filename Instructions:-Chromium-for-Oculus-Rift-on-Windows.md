@@ -10,7 +10,7 @@ The [Oculus Remote](https://support.oculus.com/835449819935261) is supported by 
 
 ## Platform requirements
 
-* Graphics card: [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](http://www.amd.com/en-us/products/graphics/desktop/r9) or better.
+* Graphics card: [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](http://www.amd.com/en-us/products/graphics/desktop/r9), or better.
 * CPU: [Intel i5-4590](http://ark.intel.com/products/80815/Intel-Core-i5-4590-Processor-6M-Cache-up-to-3_70-GHz) or better.
 * Memory: 8GB+ RAM.
 * Video output: HDMI 1.3 video output.
