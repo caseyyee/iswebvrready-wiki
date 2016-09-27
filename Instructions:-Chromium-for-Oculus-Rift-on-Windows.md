@@ -4,7 +4,7 @@
 
 * [Oculus Rift (consumer version 1.0)](https://www3.oculus.com/rift/)
 
-If you have an [Oculus Rift Development Kit 2](https://www3.oculus.com/dk2/) (DK2), you may still be able to follow these same instructions to use WebVR but there are no guarantees of stability nor performance.
+If you have an [Oculus Rift Development Kit 2](https://www3.oculus.com/dk2/) (DK2), you may still be able to follow these same instructions to use WebVR, but there are no guarantees of stability nor performance.
 
 The [Oculus Remote](https://support.oculus.com/835449819935261) is supported by the [Gamepad API (Extensions)](https://w3c.github.io/gamepad/extensions.html) in these experimental Chromium WebVR builds. Support for the upcoming hand-tracked [Oculus Touch](https://www3.oculus.com/touch/) motion controllers will be added soon once the product is released on the consumer market.
 
