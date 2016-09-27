@@ -366,6 +366,7 @@ To discuss WebVR or request features, please join the [public-webvr mailing list
 * Inverted values returned from `getEyeTranslation`. Firefox will also be making this change. It will break existing content, but we agreed that the new value is more intuitive for the general case. (For example, in [three.js](https://threejs.org) you now add these values to the camera position instead of subtracting them.)
 * Changed `PositionSensorVRDevice` function `resetSensor` to `zeroSensor` for Firefox compatibility.
 * Removed `getRecommendedRenderTargetSize` in favor of `getRecommendedEyeRenderRect(whichEye)` for Firefox compatibility. The values returned are what should be passed to `gl.viewport` when rendering each eye. Render target size can be calculated like so:
+
   ```js
   leftEyeRect = hmd.getRecommendedEyeRenderRect("left");
   rightEyeRect = hmd.getRecommendedEyeRenderRect("right");
