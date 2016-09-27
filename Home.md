@@ -1,4 +1,6 @@
-Welcome to Wiki for the **[IsWebVRReady.org site](https://iswebvrready.org/)**, where you can learn about the latest status of WebVR API support across the many platforms. Below you can find links to instructions, release notes, and developer notes for WebVR-capable browsers for the various combinations of consumer VR headsets and platforms.
+Welcome to Wiki for the **[IsWebVRReady.org site](https://iswebvrready.org/)**, where you can learn about the latest status of WebVR API support across the many platforms.
+
+Below you can find links to instructions, release notes, and developer notes for WebVR-capable browsers for the various combinations of consumer VR headsets and platforms.
 
 (If you find an issue or omission on any Wiki page, as long as you are a logged-in GitHub user, you can freely edit the content of these existing pages. Thanks for your contributions!)
 
