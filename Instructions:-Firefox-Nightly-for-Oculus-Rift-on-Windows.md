@@ -2,7 +2,7 @@
 
 ## VR hardware requirements
 
-* [Oculus Rift (consumer version 1.0) VR headset](https://www3.oculus.com/rift/)
+* [**Oculus Rift** (consumer version 1.0) VR headset](https://www3.oculus.com/rift/)
 
 You may download and run the [Oculus Rift Compatibility Check](http://ocul.us/compat-tool) tool to ensure your machine meets the minimum requirements to enjoy VR in the Oculus Rift.
 
