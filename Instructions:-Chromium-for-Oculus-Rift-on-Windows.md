@@ -17,7 +17,7 @@ The [Oculus Remote](https://support.oculus.com/835449819935261) is [supported](h
 * **USB ports:** three USB 3.0 ports plus one USB 2.0 port.
 * **OS:** [Windows 7 SP1](https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1) (64-bit) or newer.
 
-You may wish to upgrade your Windows PC manually, order/build a new custom machine, or purchase a [prebuilt Oculus-ready PC](https://www3.oculus.com/oculus-ready-pcs/).
+You may download and run the [Oculus Rift Compatibility Check](http://ocul.us/compat-tool) tool to ensure your machine meets the minimum requirements to enjoy VR in the Oculus Rift.
 
 ## Software requirements
 
