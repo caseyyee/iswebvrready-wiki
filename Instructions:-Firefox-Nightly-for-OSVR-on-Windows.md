@@ -40,3 +40,6 @@ You can experience OSVR support in Firefox Nightly using one of the following VR
 
 * [List of OSVR open-source projects (GitHub organization page)](https://github.com/OSVR/)
 * [Index of OSVR documentation](https://github.com/OSVR/OSVR-Docs/)
+* [Platform tracking issue for OSVR support in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1276712)
+* ["OSVR Comes to WebVR" (Sensics blog post)](http://sensics.com/osvr-comes-webvr/)
+* ["Why WebVR?" (Sensics blog post)](http://sensics.com/why-webvr/)
