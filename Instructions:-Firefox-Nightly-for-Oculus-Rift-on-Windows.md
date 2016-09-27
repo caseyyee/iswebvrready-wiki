@@ -12,11 +12,11 @@ It's worth noting that the [experimental Chromium builds](https://github.com/Web
 
 ## Platform requirements
 
-* Graphics Card: [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](http://www.amd.com/en-us/products/graphics/desktop/r9) or better.
-* CPU: Intel i5-4590 or better.
+* Graphics card: [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](http://www.amd.com/en-us/products/graphics/desktop/r9) or better.
+* CPU: [Intel i5-4590](http://ark.intel.com/products/80815/Intel-Core-i5-4590-Processor-6M-Cache-up-to-3_70-GHz) or better.
 * Memory: 8GB+ RAM.
-* Video-compatible HDMI 1.3 video output.
-* USB Ports: three USB 3.0 ports plus one USB 2.0 port.
+* Video output: HDMI 1.3 video output.
+* USB ports: three USB 3.0 ports plus one USB 2.0 port.
 * OS: [Windows 7 SP1](https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1) (64-bit) or newer.
 
 You may wish to upgrade your Windows PC manually, order/build a new custom machine, or purchase a [prebuilt Oculus-ready PC](https://www3.oculus.com/oculus-ready-pcs/).
