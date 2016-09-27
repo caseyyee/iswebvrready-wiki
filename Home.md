@@ -37,3 +37,13 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
   * <s>iOS</s> _(currently unsupported by Gear VR)_
+
+## **OSVR**
+[Visit OSVR project site.](http://www.osvr.org/)
+  * **Windows**
+    * <s>Chromium</s> [_(currently unsupported)_](https://github.com/toji/chrome-webvr-issues/issues/99)
+    * **[[Download Firefox Nightly||Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
+      * [[Release Notes|Release-Notes:-Firefox-Nightly]]
+      * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
+  * <s>Mac OS X</s> _(currently unsupported by OSVR)_
+  * <s>Linux</s> _(currently unsupported by OSVR)_
