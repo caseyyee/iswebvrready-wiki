@@ -53,6 +53,9 @@ To resolve this, you will need to enable an option for "Unknown Sources" from wi
 3. In the URL bar, enter `chrome://flags#enable-gamepad-extensions` and select `Enabled` from the drop-down menu for the `Enable Gamepad Extensions` flag setting. (As an extension to the browser's [Gamepad API](https://w3c.github.io/gamepad/), [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) are specifically required to enable support for motion-tracked VR controllers, vibration/rumble support and haptics, touchpad detection, etc.)
 3. Go enjoy some WebVR content!
 
-# Release notes
+<hr>
 
-[[Read the release notes.|Release-Notes:-Chromium]]
+# Related links
+
+* [[Chromium Release Notes|Release-Notes:-Chromium]]
+* [[Chromium Developer Notes|Developer-Notes:-Chromium]]
