@@ -26,4 +26,4 @@ Because WebVR support is not available in WebKit, native WebVR support is curren
 
 # Related links
 
-[[Chromium Release Notes|Release-Notes:-Chromium]]
+* [[Chromium Release Notes|Release-Notes:-Chromium]]
