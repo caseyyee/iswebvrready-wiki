@@ -368,10 +368,10 @@ To discuss WebVR or request features, please join the [public-webvr mailing list
 * Removed `getRecommendedRenderTargetSize` in favor of `getRecommendedEyeRenderRect(whichEye)` for Firefox compatibility. The values returned are what should be passed to `gl.viewport` when rendering each eye. Render target size can be calculated like so:
 
   ```js
-  leftEyeRect = hmd.getRecommendedEyeRenderRect("left");
-  rightEyeRect = hmd.getRecommendedEyeRenderRect("right");
-  width = leftEyeRect.width + rightEyeRect.width;
-  height = Math.max(leftEyeRect.height, rightEyeRect.height);
+  var leftEyeRect = hmd.getRecommendedEyeRenderRect("left");
+  var rightEyeRect = hmd.getRecommendedEyeRenderRect("right");
+  var width = leftEyeRect.width + rightEyeRect.width;
+  var height = Math.max(leftEyeRect.height, rightEyeRect.height);
   ```
 
 ### August 14, 2014
