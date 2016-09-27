@@ -4,6 +4,8 @@
 
 * [Oculus Rift (consumer version 1.0) VR headset](https://www3.oculus.com/rift/)
 
+You may download and run the [Oculus Rift Compatibility Check](http://ocul.us/compat-tool) tool to ensure your machine meets the minimum requirements to enjoy VR in the Oculus Rift.
+
 If you have an [Oculus Rift Development Kit 2](https://www3.oculus.com/dk2/) (DK2), you may still be able to follow these same instructions to use WebVR, but there are no guarantees of stability nor performance.
 
 Support for the [Oculus Remote](https://support.oculus.com/835449819935261) and upcoming [Oculus Touch](https://www3.oculus.com/touch/) controllers is [currently unavailable](https://iswebvrready.org/#gamepad-extensions) in the latest Firefox Nightly builds. You can follow the platform progress of the Firefox implementation of the [Gamepad API (Extensions)](https://w3c.github.io/gamepad/extensions.html) [here on IsWebVRReady.org](https://iswebvrready.org/#gamepad-extensions) (and, in particular, the Firefox platform bugs for the [Oculus Remote](https://bugzilla.mozilla.org/show_bug.cgi?id=1260561) and [Oculus Touch](https://bugzilla.mozilla.org/show_bug.cgi?id=1260558) controllers). Stay tuned!
