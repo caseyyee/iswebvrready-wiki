@@ -21,3 +21,9 @@ _Currently unsupported by Oculus._
 [Firefox for iOS](https://www.mozilla.org/firefox/ios/) (as are [Google Chrome for iOS](https://developer.chrome.com/multidevice/ios/overview) and [Apple's Safari browser for iOS](https://en.wikipedia.org/wiki/Safari_(web_browser)) is built atop the [WebKit browser](https://webkit.org/). As Apple permits only Safari to access privileged iOS utilities (e.g., the iOS Nitro engine), Firefox/Chrome for iOS use Apple's [`UIWebView`](https://developer.apple.com/reference/uikit/uiwebview) for loading and rendering content.
 
 Because WebVR support is not available in WebKit, native WebVR support is currently unavailable in every browser on the iOS platform. A limited subset of the capabilities of the WebVR API, however, can be emulated for iOS browsers using [this WebVR Polyfill](https://github.com/borismus/webvr-polyfill) (which makes use of the phone's sensors to simulate a [Cardboard](https://vr.google.com/cardboard/)-like headset).
+
+<hr>
+
+# Related links
+
+[[Chromium Release Notes:Release-Notes:-Chromium]]
