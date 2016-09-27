@@ -1,28 +1,28 @@
-**WARNING:** All builds posted here are experimental! They have not been vetted by Google, me, or anyone else for security or stability, and under no circumstances should you use them as your day-to-day browser! They are provided for testing of the experimental WebVR APIs only.
+**WARNING:** All [Chromium WebVR builds posted here](https://webvr.info/get-chrome/) are experimental! They have not been vetted by Google, [me (Brandon Jones)](https://twitter.com/tojiro), nor anyone else for security or stability, and under no circumstances should you use them as your day-to-day browser! They are provided for testing of the experimental WebVR APIs only.
 
-Please report Chrome WebVR bugs to [https://github.com/toji/chrome-webvr-issues/issues](https://github.com/toji/chrome-webvr-issues/issues).
+Please report Chromium WebVR bugs to [https://github.com/toji/chrome-webvr-issues/issues](https://github.com/toji/chrome-webvr-issues/issues).
 
-To discuss WebVR or request features, please join the [public-webvr mailing list](https://lists.w3.org/Archives/Public/public-webvr/).
+To discuss WebVR or request features, please join the [`public-webvr` mailing list](https://lists.w3.org/Archives/Public/public-webvr/) or participate in the [WebVR API spec on GitHub](https://github.com/w3c/webvr/issues).
 
 ### September 23, 2016
 
 * `vrdisplayactivate` events are now user gestures that can trigger `VRDisplay.RequestPresent`.
 * Updated how `VRLayer` bounds are handled to match the latest spec updates.
-* Fixed issue where repeated calls to `VRDisplay.RequestPresent` after the display was already presenting failed without a user gesture.
+* Fixed issue where repeated calls to `VRDisplay.requestPresent` after the display was already presenting failed without a user gesture.
 * Those fixes enable the newest [WebVR sample](https://webvr.info/samples/), which shows how to adjust the output resolution on the fly without resizing the canvas (which is expensive).
 
 ### September 17, 2016
 
 * Big update!
-* Updated API to the [WebVR “1.1” spec](https://www.google.com/url?q=https://w3c.github.io/webvr/&sa=D&ust=1474956084718000&usg=AFQjCNGeGbdTh-B6RKZAbFuvxnxEMjBSZA). Almost all older content should continue working, but is now considered deprecated. Please take a moment to [update your code](https://www.google.com/url?q=https://github.com/w3c/webvr/blob/gh-pages/migration.md&sa=D&ust=1474956084718000&usg=AFQjCNGq1pq3HIIWBe8UFVEHHoScidQgeQ)!
+* Updated API to the [WebVR “1.1” spec](https://w3c.github.io/webvr/). Almost all older content should continue working, but is now considered deprecated. Please take a moment to [update your code](https://github.com/w3c/webvr/blob/gh-pages/migration.md)!
 * `VRDisplay.requestPresent` **must happen in a user gesture** (e.g, click, touch, etc.).
   * This will probably screw with some people’s code. Please reach out to me if it causes you problems! The requirement isn’t going away, but I want to ensure that all reasonable use cases have a way to work within it.
-* To better stay in sync with ToT Chrome the [VR-centric gamepad APIs](https://www.google.com/url?q=https://w3c.github.io/gamepad/extensions.html&sa=D&ust=1474956084720000&usg=AFQjCNHBRlldhE72XMS4yc0U8qWrt53Xww) (Pose, Hand, Haptics) are now behind the “Gamepad Extensions” flag in `chrome://flags`. I know it sucks to have to flip more switches, but this is the cleanest way for me to move forward.
-* To stay in sync with the Gamepad Extensions spec, the gamepad haptics API has changed:
-  * `Gamepad.haptics` is now `gamepad.hapticActuators`.
+* To better stay in sync with ToT Chrome, the [VR-centric gamepad APIs](https://w3c.github.io/gamepad/extensions.html) (Pose, Hand, Haptics) are now behind the “Gamepad Extensions” flag in `chrome://flags`. I know it sucks to have to flip more switches, but this is the cleanest way for me to move forward.
+* To stay in sync with the [Gamepad Extensions spec](https://w3c.github.io/gamepad/extensions.html), the gamepad haptics API has changed:
+  * `gamepad.haptics` is now `gamepad.hapticActuators`.
   * `vibrate()` is now `pulse()`.
-* Lots and lots of behind the scenes madness while we work on landing WebVR in the browser proper. Much of it shouldn’t be visible but there’s always the chance that shifting things around breaks something. [File bugs](https://github.com/toji/chrome-webvr-issues/issues) when you find them!
-* The HTTP warning is not in this build, but expect it soon.
+* Lots and lots of behind-the-scenes madness while we work on landing WebVR in the browser proper. Much of it shouldn’t be visible, but there’s always the chance that shifting things around breaks something. [File bugs](https://github.com/toji/chrome-webvr-issues/issues) when you find them!
+* The HTTP warning (for non-HTTPS sites) is not in this build, but expect it soon.
 
 ### August 29, 2016
 
@@ -32,15 +32,14 @@ To discuss WebVR or request features, please join the [public-webvr mailing list
 
 ### August 28, 2016
 
-* Desktop updates are slow because development has been full speed ahead on Android recently! Hoping fuller WebVR implementations will end up in Chrome Dev channel on Android soon.
+* Desktop updates are slow because development has been full speed ahead on Android recently! Hoping fuller WebVR implementations will end up in the Chrome Dev channel on Android soon.
 * Lots of WebVR code being merged into Chrome proper at this point. Experimental branch is shrinking!
 * Haptics are back! New API, based on [API proposal](https://github.com/w3c/gamepad/issues/19) from [@cvan](https://twitter.com/cvanw). Briefly:
   * `gamepad.haptics` is an array of motors.
-  * Each `GamepadHaptics` object in the array have a `vibrate()` function.
-  * `vibrate()` takes an `intensity` from 0 to 1 and `duration` in ms. (As a double. Sub-ms input is allowed.)
-  * XInput devices have two elements in the array, Vive wands have one.
+  * Each `GamepadHaptics` object in the array has a `vibrate()` function.
+  * `vibrate()` takes an `intensity` from 0 to 1 and `duration` in ms (as a double float; sub-ms input is allowed).
+  * XInput devices have two elements in the array; Vive wands have one.
   * See [VR controllers](https://toji.github.io/webvr-samples/XX-vr-controllers.html) sample ([source](https://github.com/toji/webvr-samples/blob/gh-pages/XX-vr-controllers.html)) for example usage.
-
 * There are some known bugs with the haptics code. For example: duration of individual motors can interfere with one another. Should still be enough to start testing.
 
 ### August 7, 2016
