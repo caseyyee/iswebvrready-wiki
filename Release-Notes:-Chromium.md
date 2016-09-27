@@ -6,16 +6,16 @@ To discuss WebVR or request features, please join the [`public-webvr` mailing li
 
 ### September 23, 2016
 
-* `vrdisplayactivate` events are now user gestures that can trigger `VRDisplay.RequestPresent`.
+* `vrdisplayactivate` events are now user gestures that can trigger `VRDisplay.requestPresent`.
 * Updated how `VRLayer` bounds are handled to match the latest spec updates.
-* Fixed issue where repeated calls to `VRDisplay.requestPresent` after the display was already presenting failed without a user gesture.
+* Fixed issue where repeated calls to `VRDisplay.requestPresent` after the display was already presenting failed without a user gesture (e.g, `click`, `touch`, etc.).
 * Those fixes enable the newest [WebVR sample](https://webvr.info/samples/), which shows how to adjust the output resolution on the fly without resizing the canvas (which is expensive).
 
 ### September 17, 2016
 
 * Big update!
 * Updated API to the [WebVR “1.1” spec](https://w3c.github.io/webvr/). Almost all older content should continue working, but is now considered deprecated. Please take a moment to [update your code](https://github.com/w3c/webvr/blob/gh-pages/migration.md)!
-* `VRDisplay.requestPresent` **must happen in a user gesture** (e.g, click, touch, etc.).
+* `VRDisplay.requestPresent` **must happen in a user gesture** (e.g, `click`, `touch`, etc.).
   * This will probably screw with some people’s code. Please reach out to me if it causes you problems! The requirement isn’t going away, but I want to ensure that all reasonable use cases have a way to work within it.
 * To better stay in sync with ToT Chrome, the [VR-centric gamepad APIs](https://w3c.github.io/gamepad/extensions.html) (Pose, Hand, Haptics) are now behind the “Gamepad Extensions” flag in `chrome://flags`. I know it sucks to have to flip more switches, but this is the cleanest way for me to move forward.
 * To stay in sync with the [Gamepad Extensions spec](https://w3c.github.io/gamepad/extensions.html), the gamepad haptics API has changed:
