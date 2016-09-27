@@ -48,7 +48,7 @@ You may wish to upgrade your Windows PC manually, order/build a new custom machi
 ## Instructions
 
 1. Download and launch the [latest version of the Samsung Internet Browser](http://developer.samsung.com/internet#gearvr-overview) from the [Oculus Store](https://product-guides.oculus.com/en-us/documentation/gear-vr/latest/concepts/ug-b-st-store/).
-2. In the URL bar, enter `internet://webvr-enable` to enable experimental WebVR support (and `internet://webvr-enable` to disable WebVR).
+2. In the URL bar, enter `internet://webvr-enable` to enable experimental WebVR support (and `internet://webvr-disable` to disable WebVR).
 3. Go enjoy some WebVR content!
 
 **Note:** The WebVR implementation in the Samsung Internet Browser for the Gear VR is experimental. Expect performance to improve over time, as work is being done at the moment to significantly reduce current latency.
