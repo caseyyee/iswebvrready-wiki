@@ -32,7 +32,7 @@ You can experience OSVR support in Firefox Nightly using one of the following VR
 7. Restart Firefox Nightly.
 8. Enjoy some WebVR content!
 
-**Note:** The current implementation supports Extended Mode.
+**Note:** The current implementation supports [Extended Mode](https://github.com/OSVR/OSVR-Docs/blob/master/Installing/RenderManager.md#what-is-render-manager-).
 
 <hr>
 
