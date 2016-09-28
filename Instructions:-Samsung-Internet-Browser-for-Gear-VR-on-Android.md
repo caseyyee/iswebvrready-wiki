@@ -22,12 +22,18 @@ Check [this page](http://developer.samsung.com/internet#gearvr-overview) for mor
 
 ## Platform requirements
 
-Gear VR (and the Samsung Internet Browser for Gear VR) is optimized and supported only on [these Android phones](
-https://www3.oculus.com/en-us/gear-vr/):
+### Gear VR-Compatible mobile phones
 
-* [Samsung Galaxy S7](http://www.samsung.com/us/explore/galaxy-s7-features-and-specs/), [Samsung Galaxy S7 Edge]
-* [Samsung Galaxy S6](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6/), [Samsung Galaxy S6 Edge](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6-edge/), [Samsung S6 Edge+](http://www.samsung.com/global/galaxy/galaxy-s6-edge-plus/)
-* [Samsung Galaxy Note 5](http://www.samsung.com/global/galaxy/galaxy-note5/)
+Gear VR (and the Samsung Internet Browser for Gear VR) is optimized for and supported only on [these Android phones](https://www3.oculus.com/en-us/gear-vr/):
+
+* [Galaxy S7](http://www.samsung.com/us/explore/galaxy-s7-features-and-specs/)
+* [Galaxy S7 Edge](http://www.samsung.com/us/explore/galaxy-s7-features-and-specs/)
+* [Galaxy S6](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6/)
+* [Galaxy S6 Edge](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6-edge/)
+* [Galaxy S6 Edge+](http://www.samsung.com/global/galaxy/galaxy-s6-edge-plus/)
+* [Galaxy Note 5](http://www.samsung.com/global/galaxy/galaxy-note5/)
+
+### PC specs
 
 * **Graphics card:** [NVIDIA GeForce GTX 970](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970) / [AMD Radeon R9 290](https://www.amd.com/en-us/products/graphics/desktop/r9), or better.
 * **CPU:** [Intel i5-4590](http://ark.intel.com/products/80815/Intel-Core-i5-4590-Processor-6M-Cache-up-to-3_70-GHz) / [AMD FX 8350](https://www.amd.com/en-us/products/processors/desktop/fx), or better.
