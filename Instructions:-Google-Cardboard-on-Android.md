@@ -1,7 +1,8 @@
-# Chromium
+# Chromium for Android
 
-* [Download experimental Chromium for Android build.](https://webvr.info/get-chrome/)
+* [[Read instructions.|Instructions:-Chromium-for-Google-Cardboard-on-Android]]
+* [Download experimental builds.](https://webvr.info/get-chrome/)
 
-# Firefox
+# Firefox for Android
 
-* For the time being, support is deprecated to prioritize native WebVR support for Firefox on desktop.
+* _Currently unsupported._ For the time being, native WebVR support is deprecated to prioritize development of WebVR on Firefox on desktop.
