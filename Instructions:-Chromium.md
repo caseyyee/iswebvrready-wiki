@@ -67,10 +67,17 @@
 
 # Android
 
-* **[Download experimental Chromium for Android build.](https://webvr.info/get-chrome/)**
-* **[[Read instructions.|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]**
+## Google Cardboard
 
-* _Currently natively unsupported._ For the time being, native WebVR support is deprecated to prioritize development of WebVR on Firefox on desktop. (You may use the [WebVR Polyfill](https://github.com/borismus/webvr-polyfill) in the emulate support.)
+* [Visit Google Cardboard project page.](https://vr.google.com/cardboard/)
+* **[Download experimental Chromium for Android build.](https://webvr.info/get-chrome/)**
+* **[[Read instructions.|Instructions:-Chromium-for-Google-Cardboard-on-Android]]**
+
+## Google Daydream
+
+* [Visit Google Cardboard project page.](https://vr.google.com/daydream/)
+* **[Download experimental Chromium for Android build.](https://webvr.info/get-chrome/)**
+* **[[Read instructions.|Instructions:-Chromium-for-Google-Daydream-on-Android]]**
 
 
 # iOS
@@ -84,7 +91,7 @@
 
 * [_(Currently unsupported in Chromium)._](https://github.com/toji/chrome-webvr-issues/issues/99)
 * [Visit OSVR project site.](http://www.osvr.org/)
-* **[[Read info about OSVR Platform.|Instructions:-OSVR-(Platform)]]**
+* [[Read info about OSVR Platform.|Instructions:-OSVR-(Platform)]]
 * [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 <hr>
