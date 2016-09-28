@@ -1,10 +1,18 @@
-# WebVR-Compatible Browsers
+Welcome to Wiki for the **[IsWebVRReady.org site](https://iswebvrready.org/)**, where you can learn about the latest status of WebVR API support across the many platforms.
+
+Below you can find links to instructions, release notes, and developer notes for WebVR-capable browsers for the various combinations of consumer VR headsets and platforms.
+
+(If you find an issue or omission on any Wiki page, as long as you are a logged-in GitHub user, you can freely edit the content of these existing pages. Thanks for your contributions!)
+
+
+# Download WebVR-Compatible Browsers
 
 * [[Chromium|Instructions:-Chromium]] (experimental [Chrome](https://www.google.com/chrome/))
 * [[Firefox Nightly|Instructions:-Firefox-Nightly]]
 * [[Samsung Internet Browser|Instructions:-Samsung-Internet-Browser]] ([[Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]])
 
-# VR Headsets
+
+# Instructions for VR Headsets
 
 ## **Oculus Rift**
 [Visit Oculus Rift product site.](https://www.oculus.com/)
