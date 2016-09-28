@@ -18,7 +18,7 @@ _Currently unsupported by Oculus._
 
 # iOS
 
-[Please refer to notes on iOS.](Instructions:-iOS)
+_Currently unsupported by Apple on iOS._ [Please refer to notes on iOS.](Instructions:-iOS)
 
 <hr>
 
