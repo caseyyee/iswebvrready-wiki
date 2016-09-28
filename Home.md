@@ -38,8 +38,8 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
   * <s>iOS</s> _(currently unsupported by Samsung)_
 
-## **OSVR**
-[Visit OSVR project site.](http://www.osvr.org/)
+## **OSVR Hacker Dev Kit**
+[Visit OSVR project site.](http://www.osvr.org/) [Purchase the Hacker Dev Kit VR headset.](http://www.osvr.org/hardware/buy/)
   * **Windows**
     * <s>Chromium</s> [_(currently unsupported)_](https://github.com/toji/chrome-webvr-issues/issues/99)
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
