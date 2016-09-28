@@ -15,7 +15,7 @@ Below you can find links to instructions, release notes, and developer notes for
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
-  * <s>MacOS X</s> _(currently unsupported by Oculus)_
+  * <s>Mac OS X</s> _(currently unsupported by Oculus)_
   * <s>Linux</s> _(currently unsupported by Oculus)_
 
 ## **HTC Vive**
