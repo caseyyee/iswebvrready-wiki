@@ -1,4 +1,12 @@
-## **Oculus Rift
+# WebVR-Compatible Browsers
+
+* [[Chromium|Instructions:-Chromium]] (experimental [Chrome](https://www.google.com/chrome/))
+* [[Firefox Nightly|Instructions:-Firefox-Nightly]]
+* [[Samsung Internet Browser|Instructions:-Samsung-Internet-Browser]] ([[Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]])
+
+# VR Headsets
+
+## Oculus Rift
   * **Windows**
     * **[[Download Chromium|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]**
       * [[Release Notes|Release-Notes:-Chromium]]
