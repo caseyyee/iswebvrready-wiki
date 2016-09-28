@@ -70,7 +70,7 @@
 
 # iOS
 
-* _Currently natively impossible._ For the time being, native WebVR support is deprecated to prioritize development of WebVR on Firefox on desktop. (You may use the [WebVR Polyfill](https://github.com/borismus/webvr-polyfill) in the emulate support.)
+* _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]])._
 
 
 # [OSVR](http://www.osvr.org/)
