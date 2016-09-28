@@ -8,7 +8,7 @@
 
 If you have a [Vive Pre development kit](https://developer.viveport.com/managed-assets/shared/desktop/vive/Vive_PRE_User_Guide.pdf), you may still be able to follow these same instructions to use WebVR, but there are no guarantees of stability nor performance. (It's worth noting that there are mostly only the modifications made between the Vive Pre and Vive consumer version are mostly slight changes to the aesthetics and comfort [e.g., the most obvious being the IPD adjustment knob and slight headstrap adjustments].)
 
-The [Vive wireless motion controllers](https://www.vive.com/us/support/faqs/#Controllers) are [supported](https://iswebvrready.org/#gamepad-extensions) by the [Gamepad API (Extensions)](https://w3c.github.io/gamepad/extensions.html) in these experimental Chromium WebVR builds](#instructions).
+The [Vive wireless motion controllers](https://www.vive.com/us/support/faqs/#Controllers) are [supported](https://iswebvrready.org/#gamepad-extensions) by the [Gamepad API (Extensions)](https://w3c.github.io/gamepad/extensions.html) in [these experimental Chromium WebVR builds](#instructions).
 
 ## Platform requirements
 
