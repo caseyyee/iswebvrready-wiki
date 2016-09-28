@@ -1,5 +1,11 @@
 # Windows
 
+## Downloads / Instructions
+
+* **[Download experimental Chromium builds for Windows.](https://webvr.info/get-chrome/)**
+* **[[Read instructions for Oculus Rift.|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]**
+* **[[Read instructions for HTC Vive.|Instructions:-Chromium-for-HTC-Vive-on-Windows]]**
+
 ## What is Chromium vs. Chrome?
 
 [Chromium](https://www.chromium.org/) is the open-source project that forms the basis for [Google Chrome](https://www.google.com/chrome/). Because it's open source, there are a few limitations with using the [experimental Chromium WebVR builds](https://webvr.info/get-chrome/). Fortunately, patches are being actively uplifted in piecemeal in preparation for eventual release of WebVR in the proper Google Chrome product.
@@ -12,11 +18,20 @@ It's worth noting that WebVR for [Firefox](https://www.mozilla.org/firefox/) is 
 
 # Mac OS X
 
-_Currently unsupported by Oculus._
+* _Currently unsupported by Oculus._
 
 # Linux
 
-_Currently unsupported by Oculus._
+* _Currently unsupported by Oculus._
+
+# Android
+
+* [[Read instructions for Chromium for Android.|Instructions:-Chromium-for-Google-Cardboard-on-Android]]
+* [Download experimental builds.](https://webvr.info/get-chrome/)
+
+# iOS
+
+* _Currently unsupported by Apple on iOS._ [Please refer to notes on iOS.](Instructions:-iOS)
 
 <hr>
 
