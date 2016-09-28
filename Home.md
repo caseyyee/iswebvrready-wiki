@@ -32,7 +32,7 @@ Below you can find links to instructions, release notes, and developer notes for
 
 ## **Samsung Gear VR**
 Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore/gear-vr/), [Oculus](https://www3.oculus.com/gear-vr/).
-  * Android
+  * **Android**
     * **[[Download Samsung Internet Browser for Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]]**
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
