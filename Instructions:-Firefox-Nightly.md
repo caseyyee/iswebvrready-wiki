@@ -27,12 +27,12 @@
 
 ## **Oculus Rift**
 
-* _Currently officially unsupported by Oculus._
+* _Currently (officially) unsupported by Oculus._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **HTC Vive**
 
-* _Currently officially unsupported by HTC/Valve._
+* _Currently (officially) unsupported by HTC/Valve._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
@@ -47,12 +47,12 @@
 
 ## **Oculus Rift**
 
-* _Currently unsupported by Oculus._
+* _Currently (officially) unsupported by Oculus._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **HTC Vive**
 
-* _Currently officially unsupported by HTC/Valve._
+* _Currently (officially) unsupported by HTC/Valve._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
