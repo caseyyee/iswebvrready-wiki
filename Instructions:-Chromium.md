@@ -23,17 +23,16 @@
 * [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 
-
 # Mac OS X
 
 ## **Oculus Rift**
 
-* _(Currently officially unsupported by Oculus.)_
+* _Currently (officially) unsupported by Oculus._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **HTC Vive**
 
-* _(Currently officially unsupported by HTC/Valve.)_
+* _Currently (officially) unsupported by HTC/Valve._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
@@ -44,17 +43,16 @@
 * [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 
-
 # Linux
 
 ## **Oculus Rift**
 
-* _(Currently unsupported by Oculus.)_
+* _Currently (officially) unsupported by Oculus._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **HTC Vive**
 
-* _(Currently officially unsupported by HTC/Valve.)_
+* _Currently (officially) unsupported by HTC/Valve._
 * Possible unofficial support using [OSVR](http://www.osvr.org/). [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 ## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
