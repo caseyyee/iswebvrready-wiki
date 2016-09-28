@@ -67,11 +67,11 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
-  * <s>Mac OS X</s>
+  * **Mac OS X**
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**  _(Mac OS X instructions coming soon)_
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
-  * <s>Linux</s>
+  * **Linux**
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**  _(Linux instructions coming soon)_
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
