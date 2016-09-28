@@ -1,21 +1,16 @@
 # What is OSVR?
 
-[Open-Source Virtual Reality (OSVR)](http://www.osvr.org/) is an open-source project (released under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)) with two main goals:
-
-1. Provide an open-source software platform (SDK) as an abstraction layer for various VR headsets and operating-system configurations.
-2. Release open-source VR hardware as an alternative to proprietary ones. Current OSVR headsets are being sold as [Hacker Dev Kits](http://www.osvr.org/buy/) (designed by [Razer](http://www.razerzone.com/) and [Sensics](http://sensics.com/), and manufactured by [Razer](http://www.razerzone.com/)).
-
-The intent is build out and prove an open software platform that can support various VR headsets (e.g., Oculus Rift, HTC Vive, PSVR, etc.) and peripherals (including but not limited to VR controllers).
-
-It's worth nothing that [OSVR](http://www.osvr.org/) and [Valve](http://www.valvesoftware.com/)'s [OpenVR](https://github.com/ValveSoftware/openvr) (the SDK used by the HTC Vive's [SteamVR](http://store.steampowered.com/steamvr) engine) are two separate projects, though they have similar goals.
+* [[Read about the OSVR project.|Instructions:-OSVR#what-is-osvr]]
+  * [[Read the OSVR Platform instructions.|Instructions:-OSVR-(Platform)]]
+  * [[Read the OSVR Headset ("Hacker Dev Kit") instructions.|Instructions:-OSVR-(Headset)]]
 
 # Prerequisites
 
 You can experience OSVR support in Firefox Nightly using one of the following VR headsets:
 
-* [[**Oculus Rift** VR headset|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
-* [[**HTC Vive** VR headset|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
-* [**OSVR Hacker Dev Kit** VR headset](http://www.osvr.org/buy/)
+* [[<b>Oculus Rift</b>|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
+* [[<b>HTC Vive</b>|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
+* [[<b>OSVR Hacker Dev Kit</b>|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
 
 # Instructions
 
