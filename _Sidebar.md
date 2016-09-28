@@ -8,7 +8,6 @@
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
 
 ## **HTC Vive**
-[Visit HTC Vive product site.](https://www.vive.com/)
   * **Windows**
     * **[[Download Chromium|Instructions:-Chromium-for-HTC-Vive-on-Windows]]**
       * [[Release Notes|Release-Notes:-Chromium]]
