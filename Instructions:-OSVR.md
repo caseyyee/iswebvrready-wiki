@@ -12,4 +12,4 @@ It's worth nothing that [OSVR](http://www.osvr.org/) and [Valve](http://www.valv
 # Downloads / Instructions
 
 * [[Read the OSVR Platform instructions.|Instructions:-OSVR-(Platform)]]
-* [[Read the OSVR Headset instructions.|Instructions:-OSVR-(Headset)]]
+* [[Read the OSVR Headset ("Hacker Dev Kit") instructions.|Instructions:-OSVR-(Headset)]]
