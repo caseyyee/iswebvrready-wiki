@@ -86,6 +86,6 @@
 
 # Related links
 
-* [Firefox Nightly](https://nightly.firefox.org/)
+* [Firefox Nightly (info, downloads)](https://nightly.firefox.org/)
 * [[Firefox Nightly Release Notes|Release-Notes:-Firefox Nightly]]
 * [[Firefox Nightly Developer Notes|Developer-Notes:-Firefox Nightly]]
