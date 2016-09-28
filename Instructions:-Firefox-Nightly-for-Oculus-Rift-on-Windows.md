@@ -59,5 +59,7 @@ To resolve this, you will need to enable an option for "Unknown Sources" from wi
 
 # Related links
 
-* [[Firefox Release Notes|Release-Notes:-Firefox]]
-* [[Firefox Developer Notes|Developer-Notes:-Firefox]]
+* [[Firefox Nightly Release Notes|Release-Notes:-Firefox-Nightly]]
+* [[Firefox Nightly Developer Notes|Developer-Notes:-Firefox-Nightly]]
+* [Mozilla VR Blog post: "Everything you wanted to know about Oculus CV1, Oculus Home, 1.3 runtime and WebVR"
+](https://blog.mozvr.com/oculus-home-rift-cv1-webvr/)
