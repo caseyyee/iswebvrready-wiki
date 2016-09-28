@@ -51,12 +51,14 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Cardboard-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
+  * [[<s>iOS</s>|Instructions:-Chromium-for-Google-Cardboard-on-iOS]] [[_(currently unsupported by Apple on iOS)_|Instructions:-iOS]]
 
 ## **Google Daydream**
   * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Daydream-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
+  * [[<s>iOS</s>|Instructions:-Chromium-for-Google-Daydream-on-iOS]] [[_(currently unsupported by Apple on iOS)_|Instructions:-iOS]]
 
 ## **OSVR Hacker Dev Kit**
 [Visit OSVR project site.](http://www.osvr.org/) [Purchase Hacker Dev Kit VR headset.](http://www.osvr.org/hardware/buy/)
@@ -65,5 +67,5 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
-  * <s>Mac OS X</s> _(currently unsupported by OSVR)_
-  * <s>Linux</s> _(currently unsupported by OSVR)_
+  * <s>Mac OS X</s> _(instructions coming soon)_
+  * <s>Linux</s> _(instructions coming soon)_
