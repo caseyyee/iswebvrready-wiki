@@ -1,4 +1,4 @@
-# WebVR-Compatible Browsers
+# Browsers
 
 * [[Chromium|Instructions:-Chromium]] (experimental [Chrome](https://www.google.com/chrome/))
 * [[Firefox Nightly|Instructions:-Firefox-Nightly]]
