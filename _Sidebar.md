@@ -22,7 +22,7 @@
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
 
-## **OSVR**
+## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
   * **Windows**
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
