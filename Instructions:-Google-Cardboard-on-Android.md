@@ -5,4 +5,5 @@
 
 # Firefox for Android
 
-* _Currently unsupported._ For the time being, native WebVR support is deprecated to prioritize development of WebVR on Firefox on desktop.
+* _Currently natively unsupported._ For the time being, native WebVR support is deprecated to prioritize development of WebVR on Firefox on desktop. (You may use the [WebVR Polyfill](https://github.com/borismus/webvr-polyfill) in the emulate support.)
+
