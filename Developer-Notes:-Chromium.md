@@ -31,7 +31,7 @@ It's worth noting that WebVR for [Firefox](https://www.mozilla.org/firefox/) is 
 
 # iOS
 
-* _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]]).
+* _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]])._
 
 <hr>
 
