@@ -17,7 +17,7 @@
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
 
 ## **Samsung Gear VR**
-  * Android
+  * **Android**
     * **[[Download Samsung Internet Browser for Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]]**
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
