@@ -29,13 +29,13 @@
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
 
 ## **Google Cardboard**
-  * *Android*
+  * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Cardboard-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
 
 ## **Google Daydream**
-  * *Android*
+  * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Daydream-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
