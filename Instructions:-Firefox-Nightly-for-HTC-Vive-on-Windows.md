@@ -39,9 +39,16 @@ You may wish to upgrade your Windows PC manually, order/build a new custom machi
 
 # Related links
 
-# Related links
-
-* [[Firefox Release Notes|Release-Notes:-Firefox]]
-* [[Firefox Developer Notes|Developer-Notes:-Firefox]]
+* [[Firefox Nightly Release Notes|Release-Notes:-Firefox-Nightly]]
+* [[Firefox Nightly Developer Notes|Developer-Notes:-Firefox-Nightly]]
 * [Mozilla VR Blog post: "Everything you wanted to know about Oculus CV1, Oculus Home, 1.3 runtime and WebVR"
 ](https://blog.mozvr.com/oculus-home-rift-cv1-webvr/)
+* [Mozilla VR Blog post: "Experimental HTC Vive Support in Firefox Nightly"](https://blog.mozvr.com/experimental-htc-vive-support-in-firefox-nightly/)
+* [Vive User Guide](http://dl4.htc.com/web_materials/Manual/Vive/Vive_User_Guide.pdf)
+* [SteamVR Support pages](https://support.steampowered.com/kb_article.php?ref=5254-FJKZ-7829)
+* [Vive video tutorials (official)](http://www.vive.com/us/support/)
+* [UltraVR's Vive Guide (unofficial)](http://www.ultravr.org/htc-vive-guide/)
+* [OpenVR SDK open-source project on GitHub](https://github.com/ValveSoftware/openvr)
+* [OpenVR SDK documentation](https://github.com/ValveSoftware/openvr/wiki/API-Documentation)
+* [SteamVR Community blog](https://steamcommunity.com/steamvr)
+* [SteamVR Hardware](http://store.steampowered.com/hardware/)
