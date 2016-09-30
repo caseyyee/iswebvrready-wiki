@@ -2,7 +2,7 @@
 
 ## VR hardware requirements
 
-* **Samsung Gear VR** (consumer version 1.0) headset
+* **Samsung Gear VR** (consumer version 1.0) headset, either the white 2015 SM-R322 model or the black 2016 SM-R323 model.
   * [Oculus product page](https://www3.oculus.com/gear-vr/)
   * [Samsung product page](http://www.samsung.com/us/explore/gear-vr/)
 
@@ -26,12 +26,14 @@ Check [this page](http://developer.samsung.com/internet#gearvr-overview) for mor
 
 Gear VR (and the Samsung Internet Browser for Gear VR) is optimized for and supported only on [these Android phones](https://www3.oculus.com/en-us/gear-vr/):
 
+* Galaxy Note 7 (requires Gear VR model SM-R323 with USB C)
 * [Galaxy S7](http://www.samsung.com/us/explore/galaxy-s7-features-and-specs/)
 * [Galaxy S7 Edge](http://www.samsung.com/us/explore/galaxy-s7-features-and-specs/)
 * [Galaxy S6](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6/)
 * [Galaxy S6 Edge](http://www.samsung.com/global/galaxy/galaxys6/galaxy-s6-edge/)
 * [Galaxy S6 Edge+](http://www.samsung.com/global/galaxy/galaxy-s6-edge-plus/)
 * [Galaxy Note 5](http://www.samsung.com/global/galaxy/galaxy-note5/)
+* Galaxy Note 4 (requires Gear VR Innovator Edition)
 
 ### PC specs
 
