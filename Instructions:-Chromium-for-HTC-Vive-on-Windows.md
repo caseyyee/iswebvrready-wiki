@@ -25,7 +25,7 @@ You may wish to upgrade your Windows PC manually, order/build a new custom machi
 
 ## Software requirements
 
-* Ensure you have installed the [Microsoft .NET Framework 4.6 (or later)](https://www.microsoft.com/en-us/download/details.aspx?id=48137).
+* You must be running [Windows 7 SP1](https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1) (64-bit) or newer. (Also, ensure you have installed the [Microsoft .NET Framework v4.6 or newer](https://www.microsoft.com/en-us/download/details.aspx?id=48137)).
 * Download, install, launch, and configure the [Vive with SteamVR](http://www.vive.com/us/setup/). (The Vive makes use of [Valve](http://www.valvesoftware.com)'s [Steam](http://store.steampowered.com/) application for browsing, purchasing, downloading, and installing VR experiences. SteamVR is installed as a separate application and contains the required runtime to render experiences to the Oculus Rift.)
 
 (If needed, refer to the [Vive User Guide](http://dl4.htc.com/web_materials/Manual/Vive/Vive_User_Guide.pdf) or the [SteamVR Support pages](https://support.steampowered.com/kb_article.php?ref=5254-FJKZ-7829).)
