@@ -1,7 +1,7 @@
 # Windows
 
-* *[[Read instructions for the Oculus Rift.|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]*
-* *[https://github.com/Web-VR/iswebvrready/wiki/Instructions%3A-Chromium-for-HTC-Vive-on-Windows]]*
+* *[[Read instructions for Oculus Rift.|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]*
+* *[[Read instructions for HTC Vive.|Instructions:-Chromium-for-HTC-Vive-on-Windows]]*
 * *[Download experimental Chromium WebVR builds.](https://webvr.info/get-chrome/)*
 
 # Supported VR headsets
