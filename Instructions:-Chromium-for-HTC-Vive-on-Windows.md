@@ -33,8 +33,8 @@ You may wish to upgrade your Windows PC manually, order/build a new custom machi
 ## Instructions
 
 1. Download the [latest experimental Windows Chromium build (64-bit only)](https://webvr.info/get-chrome/) by [Brandon Jones](https://twitter.com/tojiro) (WebVR Platform Engineer, Google Chrome).
-2. In the URL bar, enter `chrome://flags#enable-webvr` and select `Enabled` from the drop-down menu for the `Enable WebVR` flag setting.
-3. In the URL bar, enter `chrome://flags#enable-gamepad-extensions` and select `Enabled` from the drop-down menu for the `Enable Gamepad Extensions` flag setting. (As an extension to the browser's [Gamepad API](https://w3c.github.io/gamepad/), [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) are specifically required to enable support for motion-tracked VR controllers, vibration/rumble support and haptics, touchpad detection, etc.)
+2. In the URL bar, load `chrome://flags#enable-webvr` and toggle the `Enable WebVR` flag.
+3. In the URL bar, load `chrome://flags#enable-gamepad-extensions` and toggle the `Enable Gamepad Extensions` flag.
 4. Launch the [SteamVR](https://support.steampowered.com/kb_article.php?ref=5254-FJKZ-7829) application.
 5. Go enjoy some WebVR content!
 
