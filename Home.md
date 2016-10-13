@@ -14,7 +14,7 @@ Below you can find links to instructions, release notes, and developer notes for
 
 # Instructions for VR headsets
 
-## **Oculus Rift**
+## **[[Oculus Rift|Instructions:-Oculus-Rift]]**
 [Visit Oculus Rift product site.](https://www.oculus.com/)
   * **Windows**
     * **[[Download Chromium|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]**
@@ -23,10 +23,12 @@ Below you can find links to instructions, release notes, and developer notes for
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
-  * <s>Mac OS X</s> _(currently unsupported by Oculus)_
-  * <s>Linux</s> _(currently unsupported by Oculus)_
+  * <s>Mac OS X</s>
+    * _Currently unsupported by Oculus._
+  * <s>iOS</s>
+    * _Currently unsupported by Oculus._
 
-## **HTC Vive**
+## **[[HTC Vive|Instructions:-HTC-Vive]]**
 [Visit HTC Vive product site.](https://www.vive.com/)
   * **Windows**
     * **[[Download Chromium|Instructions:-Chromium-for-HTC-Vive-on-Windows]]**
@@ -35,32 +37,37 @@ Below you can find links to instructions, release notes, and developer notes for
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-HTC-Vive-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
-  * <s>Mac OS X</s> _(currently unsupported by HTC/Valve)_
-  * <s>Linux</s> _(currently unsupported by HTC/Valve)_
+  * <s>Mac OS X</s>
+    * _Currently unsupported by HTC/Valve._
+  * <s>iOS</s>
+    * _Currently unsupported by HTC/Valve._
 
-## **Samsung Gear VR**
+## **[[Samsung Gear VR|Instructions:-Samsung-Gear-VR]]**
 Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore/gear-vr/), [Oculus](https://www3.oculus.com/gear-vr/).
   * **Android**
     * **[[Download Samsung Internet Browser for Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]]**
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
-  * <s>iOS</s> _(currently unsupported by Samsung)_
+  * <s>iOS</s>
+    * _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]])._
 
-## **Google Cardboard**
+## **[[Google Cardboard|Instructions:-Google-Cardboard]]**
   * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Cardboard-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
-  * [[<s>iOS</s>|Instructions:-Chromium-for-Google-Cardboard-on-iOS]] _[[(currently unsupported by Apple on iOS)|Instructions:-iOS]]_
+  * <s>iOS</s>
+    * _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]])._
 
-## **Google Daydream**
+## **[[Google Daydream|Instructions:-Google-Daydream]]**
   * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Daydream-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
-  * [[<s>iOS</s>|Instructions:-Chromium-for-Google-Daydream-on-iOS]] _[[(currently unsupported by Apple on iOS)|Instructions:-iOS]]_
+  * <s>iOS</s>
+    * _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]])._
 
-## **OSVR Hacker Dev Kit**
+## **[[OSVR Hacker Dev Kit|Instructions:-OSVR]]**
 [Visit OSVR project site.](http://www.osvr.org/) [Purchase Hacker Dev Kit VR headset.](http://www.osvr.org/hardware/buy/)
   * **Windows**
     * <s>Chromium</s> [_(currently unsupported)_](https://github.com/toji/chrome-webvr-issues/issues/99)
@@ -69,9 +76,7 @@ Visit Samsung Gear VR product sites: [Samsung](http://www.samsung.com/us/explore
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
   * **Mac OS X**
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**  _(Mac OS X instructions coming soon)_
-      * [[Release Notes|Release-Notes:-Firefox-Nightly]]
-      * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
+      * _Instructions coming soon._
   * **Linux**
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**  _(Linux instructions coming soon)_
-      * [[Release Notes|Release-Notes:-Firefox-Nightly]]
-      * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
+      * _Instructions coming soon._
