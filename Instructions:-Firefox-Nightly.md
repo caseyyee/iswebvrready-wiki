@@ -15,10 +15,10 @@
 * [Visit HTC Vive product site.](https://www.vive.com/)
 * [Read platform support status.](https://iswebvrready.org/#htc-vive-support)
 
-## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
+## OSVR
 
 * [Visit OSVR project site.](http://www.osvr.org/)
-* [Purchase Hacker Dev Kit VR headset.](http://www.osvr.org/hardware/buy/)
+* [Purchase OSVR "Hacker Dev Kit" headset.](http://www.osvr.org/hardware/buy/)
 * [[Read instructions for OSVR headset.|Instructions:-Firefox-Nightly-for-OSVR-on-Linux]]
 * [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
@@ -77,11 +77,12 @@
 * _Currently unsupported by Apple on iOS ([[see notes on iOS|Instructions:-iOS]])._
 
 
-# [OSVR](http://www.osvr.org/)
+# OSVR
 
 [OSVR](http://www.osvr.org/)'s software platform, available for various platforms (Windows, Mac OS X, and Linux).
 
 * [Visit OSVR project site.](http://www.osvr.org/)
+* **[[Read info about OSVR "Hacker Dev Kit" Headset.|Instructions:-OSVR]]**
 * **[[Read info about OSVR Platform.|Instructions:-OSVR-(Platform)]]**
 * **[[Read instructions for the OSVR headset (on Windows).|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
 * [Read platform support status.](https://iswebvrready.org/#osvr-support)
