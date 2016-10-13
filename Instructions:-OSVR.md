@@ -1,4 +1,23 @@
-# What is OSVR?
+* [Visit OSVR "Hacker Dev Kit" product site.](http://www.osvr.org/hardware/buy/)
+* [[Read OSVR Platform instructions.|Instructions:-OSVR-(Platform)]]
+* [[Read OSVR Headset ("Hacker Dev Kit") instructions.|Instructions:-OSVR-(Headset)]]
+
+# Windows
+* **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
+  * [[Release Notes|Release-Notes:-Firefox-Nightly]]
+  * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
+
+# Mac OS X
+
+* _Instructions coming soon._
+
+# Linux
+
+* _Instructions coming soon._
+
+# FAQ
+
+## What is OSVR?
 
 [Open-Source Virtual Reality (OSVR)](http://www.osvr.org/) is an open-source project (released under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)) with two main goals:
 
@@ -8,8 +27,3 @@
 The intent is build out and prove an open software platform that can support various VR headsets (e.g., Oculus Rift, HTC Vive, PSVR, etc.) and peripherals (including but not limited to VR controllers).
 
 It's worth nothing that [OSVR](http://www.osvr.org/) and [Valve](http://www.valvesoftware.com/)'s [OpenVR](https://github.com/ValveSoftware/openvr) (the SDK used by the HTC Vive's [SteamVR](http://store.steampowered.com/steamvr) engine) are two separate projects, though they have similar goals.
-
-# Downloads / Instructions
-
-* [[Read the OSVR Platform instructions.|Instructions:-OSVR-(Platform)]]
-* [[Read the OSVR Headset ("Hacker Dev Kit") instructions.|Instructions:-OSVR-(Headset)]]
