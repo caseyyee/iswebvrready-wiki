@@ -83,7 +83,7 @@
 
 * [Visit OSVR project site.](http://www.osvr.org/)
 * **[[Read info about OSVR Platform.|Instructions:-OSVR-(Platform)]]**
-* **[[Read instructions for the OSVR headset.|Instructions:-Firefox-Nightly-for-OSVR-on-Linux]]**
+* **[[Read instructions for the OSVR headset (on Windows).|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
 * [Read platform support status.](https://iswebvrready.org/#osvr-support)
 
 <hr>
