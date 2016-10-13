@@ -42,7 +42,7 @@
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
 
-## **[OSVR](http://www.osvr.org/) ["Hacker Dev Kit"](http://www.osvr.org/hardware/buy/)**
+## **[[OSVR|Instructions:-OSVR]]**
   * **Windows**
     * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
