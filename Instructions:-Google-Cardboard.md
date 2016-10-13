@@ -1,6 +1,10 @@
+[Visit Google Cardboard product site.](https://vr.google.com/cardboard/)
+
 # Android
 
-* [[Read instructions for Chromium for Google Cardboard on Android downloads and info.|Instructions:-Chromium-for-Google-Cardboard-on-Android]]
+* **[[Download Chromium|Instructions:-Chromium-for-Google-Cardboard-on-Android]]**
+  * [[Release Notes|Release-Notes:-Chromium]]
+  * [[Developer Notes|Developer-Notes:-Chromium]]
 
 # iOS
 
