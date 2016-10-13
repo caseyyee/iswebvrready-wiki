@@ -1,6 +1,6 @@
-* [Visit OSVR "Hacker Dev Kit" product site.](http://www.osvr.org/hardware/buy/)
-* [[Read OSVR Platform instructions.|Instructions:-OSVR-(Platform)]]
+* [Visit OSVR Headset ("Hacker Dev Kit") product site.](http://www.osvr.org/hardware/buy/)
 * [[Read OSVR Headset ("Hacker Dev Kit") instructions.|Instructions:-OSVR-(Headset)]]
+* [[Read OSVR Platform instructions.|Instructions:-OSVR-(Platform)]]
 
 # Windows
 * **[[Download Firefox Nightly|Instructions:-Firefox-Nightly-for-OSVR-on-Windows]]**
