@@ -6,7 +6,7 @@
 
 # VR Headsets
 
-## Oculus Rift
+## **[[Oculus Rift|Instructions:-Oculus-Rift]]**
   * **Windows**
     * **[[Download Chromium|Instructions:-Chromium-for-Oculus-Rift-on-Windows]]**
       * [[Release Notes|Release-Notes:-Chromium]]
@@ -15,7 +15,7 @@
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
 
-## **HTC Vive**
+## **[[HTC Vive|Instructions:-HTC-Vive]]**
   * **Windows**
     * **[[Download Chromium|Instructions:-Chromium-for-HTC-Vive-on-Windows]]**
       * [[Release Notes|Release-Notes:-Chromium]]
@@ -24,19 +24,19 @@
       * [[Release Notes|Release-Notes:-Firefox-Nightly]]
       * [[Developer Notes|Developer-Notes:-Firefox-Nightly]]
 
-## **Samsung Gear VR**
+## **[[Samsung Gear VR:-Instructions:-Samsung-Gear-VR]]**
   * **Android**
     * **[[Download Samsung Internet Browser for Gear VR|Instructions:-Samsung-Internet-Browser-for-Gear-VR-on-Android]]**
       * [[Release Notes|Release-Notes:-Samsung-Internet-Browser]]
       * [[Developer Notes|Developer-Notes:-Samsung-Internet-Browser]]
 
-## **Google Cardboard**
+## **[[Google Cardboard:-Instructions:-Google-Cardboard]]**
   * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Cardboard-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
       * [[Developer Notes|Developer-Notes:-Chromium]]
 
-## **Google Daydream**
+## **[[Google Daydream:-Instructions:-Google-Daydream]]**
   * **Android**
     * **[[Download Chromium for Android|Instructions:-Chromium-for-Google-Daydream-on-Android]]**
       * [[Release Notes|Release-Notes:-Chromium]]
