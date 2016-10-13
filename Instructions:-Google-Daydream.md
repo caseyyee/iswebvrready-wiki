@@ -1,4 +1,4 @@
-[Visit Google Daydream product site.](https://vr.google.com/cardboard/)
+[Visit Google Daydream product site.](https://vr.google.com/daydream/)
 
 # Android
 
