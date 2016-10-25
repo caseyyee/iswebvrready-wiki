@@ -33,7 +33,7 @@ You may wish to upgrade your Windows PC manually, order/build a new custom machi
 ## Instructions
 
 1. Download the [latest Windows Firefox Nightly build (64-bit)](https://nightly.mozilla.org/) by [Kip Gilbert](https://twitter.com/kearwoodgilbert) (WebVR Platform Engineer, Mozilla Firefox).
-2. Download version 1.02 of the `openvr_api`.dll file from the OpenVR GitHub repository: [32-bit](https://github.com/ValveSoftware/openvr/raw/master/bin/win32/openvr_api.dll), [64-bit](https://github.com/ValveSoftware/openvr/raw/master/bin/win64/openvr_api.dll).
+2. Download version 1.02 of the `openvr_api.dll` file from the OpenVR GitHub repository: [32-bit](https://github.com/ValveSoftware/openvr/raw/master/bin/win32/openvr_api.dll), [64-bit](https://github.com/ValveSoftware/openvr/raw/master/bin/win64/openvr_api.dll).
 3. Save the `openvr_api.dll` file somewhere on your computer where the user running Firefox can read it.
 4. In Firefox Nightly, navigate to `about:config`; change the value of `dom.vr.openvr.enabled` to `true` and `gfx.vr.openvr-runtime` to the full path of the `openvr_api.dll` file.
 5. Restart Firefox Nightly.
