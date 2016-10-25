@@ -1,7 +1,8 @@
 # Windows
 
 * **[Download Firefox Nightly for Windows.](https://nightly.mozilla.org/)**
-* **[[Read instructions.|Instructions:-Firefox Nightly-for-Oculus-Rift-on-Windows]]**
+* [[Read instructions for Oculus Rift.|Instructions:-Firefox-Nightly-for-Oculus-Rift-on-Windows]]
+* [[Read instructions for HTC Vive.|Instructions:-Firefox-Nightly-for-HTC-Vive-on-Windows]]
 
 # Supported VR headsets
 
